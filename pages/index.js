@@ -26,7 +26,7 @@ export default function Home({ allPostData }) {
       </Head>
       <section className={utilStyle.headingMd}>
         <p>
-          プロフィールプロフィールプロフィールプロフィールプロフィールプロフィールプロフィールプロフィールプロフィール
+          Next.jsプロフィールプロフィールプロフィールプロフィールプロフィールプロフィールプロフィール
         </p>
       </section>
       <section>
